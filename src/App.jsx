@@ -3,7 +3,7 @@ import DisplaySection from "./components/DisplaySection";
 import Jumbotron from "./components/Jumbotron";
 import Navbar from "./components/Navbar";
 import WebGiViewer from "./components/WebGiViewer";
-import SoundSection from "./components/soundSection";
+import SoundSection from "./components/SoundSection";
 
 function App() {
   const webGiViewerRef = React.useRef();
